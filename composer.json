@@ -1,6 +1,6 @@
 {
     "name": "redienhcs/args",
-    "version" : "0.0.1",
+    "version" : "1.0.0",
     "description": "Arguments",
     "type": "project",
     "license": "MIT",
